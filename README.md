@@ -4,4 +4,5 @@
 2. Inversi Angka
 3. Shuffle Angka
 4. Membuat Piramida
-**Waktu pengoperasian selama penggunaan hanya 5 detik mencakp keseluruhan atau mungkin lebih cepat
+   
+* Waktu pengoperasian selama penggunaan hanya 5 detik mencakp keseluruhan atau mungkin lebih cepat
